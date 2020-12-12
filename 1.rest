@@ -1,0 +1,6 @@
+GET
+
+http://localhost/common/role-type/list
+
+@locale: fa_ir
+%%%
